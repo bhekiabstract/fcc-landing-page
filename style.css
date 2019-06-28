@@ -1,0 +1,9 @@
+main {
+    text-align: center;
+    margin: 10px auto;
+}
+
+#nav-bar {
+    position: fixed;
+}
+
