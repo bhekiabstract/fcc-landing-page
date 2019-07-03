@@ -1,9 +1,32 @@
 main {
     text-align: center;
     margin: 10px auto;
+    width: 1100px;
 }
 
-#nav-bar {
+header {
     position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 20px;
 }
 
+
+#flavours {
+    display: flex;
+}
+.aromat-flav {
+    flex: 1;
+}
+
+.shaker {
+    max-width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#submit {
+    margin-top: 10px;
+
+}
