@@ -51,3 +51,14 @@ footer {
     margin-bottom: 1em;
     text-align: right;
 }
+
+@media screen and (max-width: 375px) {
+
+    .ikota {
+        margin: 0 auto;
+    }
+
+    .shaker {
+        width: 100%;
+    }
+}
